@@ -79,7 +79,7 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *BOTCAHX*
+Base Script : *MIKU*
 Recode Script : *Private*
 
 ⫹⫺ TioXd 
@@ -191,7 +191,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 [
 ['Creator', '.owner'],
 ['Donasi', '.donasi'],
-['Script', '.sc']
+['Scrip
 ], m
 )
     /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
